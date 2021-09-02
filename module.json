@@ -1,5 +1,5 @@
 {
-    "name": "Vampire le Requiem 2e",
+    "name": "Vampire le Requiem 2e - Compendium",
     "title": "Vampire le Requiem 2e - Compendium",
     "description": "Un compedium pour le JDR Vampire le Requiem 2e",
     "version": "0.1.0",
@@ -20,6 +20,6 @@
             "entity": "Item"
         }
     ],
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/Lumosc/compendicum-Vampire2e/main/module.json",
     "download": "https://github.com/Lumosc/compendicum-Vampire2e/raw/main/Compendium-Vampire2e.zip"
   }

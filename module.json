@@ -20,6 +20,6 @@
             "entity": "Item"
         }
     ],
-    "manifest": "",
+    "manifest": "https://github.com/Lumosc/compendium-Vampire2e/raw/main/module.json",
     "download": "https://github.com/Lumosc/compendium-Vampire2e/raw/main/Compendium-Vampire2e.zip"
   }

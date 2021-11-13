@@ -2,7 +2,7 @@
     "name": "Vampire le Requiem 2e - Compendium",
     "title": "Vampire le Requiem 2e - Compendium",
     "description": "Un compedium pour le JDR Vampire le Requiem 2e",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "author": "Lumosc",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.8.9",
@@ -11,6 +11,12 @@
             "name": "atouts-generaux",
             "label": "Atouts généraux",
             "path": "./packs/atouts-generaux.db",
+            "entity": "Item"
+        },
+        {
+            "name": "atouts-de-combat-vampirique",
+            "label": "Atouts de combat vampirique",
+            "path": "./packs/atouts-de-combat-vampirique.db",
             "entity": "Item"
         },
         {
